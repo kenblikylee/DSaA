@@ -6,7 +6,7 @@ About Data Structures and Algorithm.
 
 > 数据结构主要研究组织大量数据的方法，而算法分析则是对算法运行时间的评估。
 
-- [第一章 引论](source/Chapter1/index.md)
+- [第一章 引论](docs/Chapter1/index.md)
 - 第二章 算法分析
 - 第三章 表，栈和队列
 - 第四章 树

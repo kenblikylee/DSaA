@@ -1,0 +1,5 @@
+site_name: DSaA
+nav:
+    - 首页: index.md
+    - 第一章: Chapter1/index.md
+theme: readthedocs
