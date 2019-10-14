@@ -3,3 +3,7 @@ nav:
     - 首页: index.md
     - 第一章: Chapter1/index.md
 theme: readthedocs
+extra_javascript: 
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+    - mdx_math
