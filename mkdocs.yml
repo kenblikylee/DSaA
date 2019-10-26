@@ -18,4 +18,4 @@ extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
     - mdx_math:
-	  enable_dollar_delimiter=True
+        enable_dollar_delimiter: True
